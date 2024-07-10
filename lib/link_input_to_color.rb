@@ -5,7 +5,7 @@ def link_input_to_color user_number
   when "2"
     :green
   when "3"
-    :green
+    :yellow
   when "4"
     :blue
   when "5"
